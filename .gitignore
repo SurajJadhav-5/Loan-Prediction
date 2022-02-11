@@ -1,0 +1,13 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+config.py
+data_management.py
+main_pipeline.py
+MainCode.py
+pipeline.py
+preprocesser.py
+sample_submission_49d68Cx.csv
+test_lAUu6dG.csv
+Model_2.ipynb
+Model_3_Gridsearchcv.ipynb
